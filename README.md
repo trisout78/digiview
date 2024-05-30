@@ -1,6 +1,9 @@
-# Digiview
+# This project is a [Digiview fork](https://codeberg.org/ladigitale/digiview)
 
-Digiview est une application en ligne pour visionner des vidéos YouTube dans une interface sans distraction. 
+
+# TriView
+
+TriView est une application en ligne pour visionner des vidéos YouTube dans une interface sans distraction. 
 
 Elle est publiée sous licence GNU AGPLv3.
 Sauf les fontes Roboto Slab et Material Icons (Apache License Version 2.0) et la fonte HKGrotesk (Sil Open Font Licence 1.1)
