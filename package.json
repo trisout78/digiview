@@ -1,0 +1,41 @@
+{
+  "name": "digiview",
+  "version": "1.1.5",
+  "homepage": "https://ladigitale.dev/digiview/",
+  "repository": {
+    "type": "git",
+    "url": "https://codeberg.org/ladigitale/digiview.git"
+  },
+  "author": {
+    "name": "Emmanuel ZIMMERT",
+    "email": "ez@ladigitale.dev",
+    "url": "https://ladigitale.dev"
+  },
+  "license": "GNU AGPLv3",
+  "scripts": {
+    "dev": "vite",
+    "build:dist": "vite build --mode dist",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "clipboard": "^2.0.11",
+    "destyle.css": "^2.0.0",
+    "linkify-html": "^4.1.1",
+    "linkifyjs": "^4.1.1",
+    "pell": "^1.0.6",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.5.0",
+    "@vitejs/plugin-vue": "^4.3.4",
+    "@vue/eslint-config-prettier": "^8.0.0",
+    "eslint": "^8.50.0",
+    "eslint-plugin-vue": "^9.17.0",
+    "prettier": "^3.0.3",
+    "vite": "^4.4.9",
+    "vite-plugin-static-copy": "^0.17.0"
+  }
+}
