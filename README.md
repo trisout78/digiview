@@ -36,12 +36,3 @@ php -S 127.0.0.1:8000 (pour le développement uniquement)
 
 ### Production
 Le dossier dist peut être déployé directement sur un serveur PHP avec l'extension SQLite activée. Cette version compilée n'intègre pas l'API Google pour YouTube.
-
-### Démo
-https://ladigitale.dev/digiview/
-
-### Soutien
-Open Collective : https://opencollective.com/ladigitale
-
-Liberapay : https://liberapay.com/ladigitale/
-
