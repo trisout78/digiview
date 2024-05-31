@@ -37,6 +37,10 @@
 	text-transform: none!important;
 }
 
+.warning-text {
+    margin-top: 20px;
+}
+
 html,
 body {
 	width: 100%;
@@ -125,9 +129,9 @@ main {
     font-weight: 700;
     text-transform: uppercase;
 	padding: 1em 2em;
-	border: 2px solid #00ced1;
+	border: 2px solid #FF5733;
 	border-radius: 2em;
-    background: #46fbff;
+    background: #FF2D00;
     cursor: pointer;
     user-select: none;
     transition: all ease-in 0.2s;
@@ -259,7 +263,7 @@ main {
 	cursor: pointer;
 	color: #001d1d;
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
-	background: #00ced1;
+	background: #FF5733;
 	border-radius: 5px;
 	letter-spacing: 1px;
 	text-indent: 1px;
@@ -358,13 +362,13 @@ main {
 }
 
 .contenu-editeur a {
-	color: #00ced1;
+	color: #FF5733;
 	text-decoration: underline;
 }
 
 #description-video a {
 	font-weight: 400;
-	color: #00ced1;
+	color: #FF5733;
 	text-decoration: underline;
 }
 
@@ -434,7 +438,7 @@ main {
 	width: 5px;
     height: 25px;
 	border-radius: 20%;
-	background: #00ced1;
+	background: #FF5733;
 }
 
 .spinner div:nth-child(1) {

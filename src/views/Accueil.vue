@@ -16,7 +16,8 @@
 					</div>
 				</div>
 				<div id="credits">
-					<p>{{ new Date().getFullYear() }} - <a href="https://trisout.fr" target="_blank" rel="noreferrer">Trisout</a> - <a href="https://github.com/trisout78/digiview" target="_blank" rel="noreferrer">Code source</a></p>
+					<p>Made with ❤️ by <a href="https://trisout.fr" target="_blank" rel="noreferrer">Trisout (Tristan V.)</a></p>
+					<p><a href="https://github.com/trisout78/digiview" target="_blank" rel="noreferrer">OpenSource</a></p>
 				</div>
 			</div>
 		</div>
@@ -60,6 +61,7 @@
 								</div>
 							</div>
 						</div>
+						<p class="warning-text">Si vous ne connaissez pas la durée de la vidéo laissez la fin sur 120 minutes. La vidéo s'arrêtera tout de même à sa fin et non à 120 minutes.</p>
 						<div class="option option-vignette">
 							<label>Afficher la vignette&nbsp;?</label>
 							<span class="oui">

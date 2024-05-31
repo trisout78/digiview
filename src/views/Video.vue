@@ -26,7 +26,8 @@
 			</div>
 			<div id="description-video" v-if="description !== ''" v-html="description" />
 			<div id="credits" v-if="!integration">
-				<p>{{ new Date().getFullYear() }} - <a href="https://trisout.fr" target="_blank" rel="noreferrer">Trisout</a></p>
+				<p>Made with ❤️ by <a href="https://trisout.fr" target="_blank" rel="noreferrer">Trisout (Tristan V.)</a></p>
+				<p><a href="https://github.com/trisout78/digiview" target="_blank" rel="noreferrer">OpenSource</a></p>
 			</div>	
 		</div>
 
